@@ -13,7 +13,7 @@ A simple Android app that displays random quotes. Users can generate a new quote
 ### Prerequisites
 - **Android Studio**: Make sure you have the latest version installed.
 - **Java/Kotlin**: The app is developed in [Java/Kotlin], ensure your environment supports it.
-- 
+  
 ### Installation
 1. **Clone the repository:**
    git clone https://github.com/RanaG-851/RandomQuoteGenerator.git
